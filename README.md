@@ -1,0 +1,2 @@
+# Bachelor_Biosignalgenerator_HTWK
+Sammlung des Materials zur Bachelorarbeit Biosignalgenerator
